@@ -11,4 +11,7 @@
     <color name="colorRectangle">#455A64</color>
     <color name="colorBackground">#FF37</color>
     <color name="colorAccent">#FF6200EE</color>
+    <color name="kuning">#f2c249</color>
+    <color name="biru">#63baed</color>
+    <color name="cokelat">#a26504</color>
 </resources>
